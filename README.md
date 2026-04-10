@@ -96,8 +96,7 @@ chcp 65001
 
 ## Link do vídeo
 
-Adicione aqui o link do vídeo no YouTube após a gravação:  
-`Cole aqui o link do vídeo`
+https://youtu.be/A8pfKOnfEYk
 
 ## Sugestão para a apresentação
 
